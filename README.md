@@ -1,8 +1,8 @@
-# Linux-Python-Docker-Demo
-DA TUI Based Python Application that simplifies Linux & Docker Commands for Common Users
+# Linux & Docker with Integration of Python 3
+This project contain source code of TUI Based Python Application that simplifies Linux & Docker Commands for Common Users
 
 --------------------------------------------------------------------------------------
-# Main Menu
+# Screens of Software
 Main Menu of the application having 8 Different Functions to perform<br>
 ![image](https://user-images.githubusercontent.com/81201107/156859224-02599cef-4711-4b84-a5ca-59bab0b789fa.png)
 
