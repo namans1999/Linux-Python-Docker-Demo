@@ -1,5 +1,5 @@
 # Linux & Docker with Integration of Python 3
-This project contain source code of TUI Based Python Application that simplifies Linux & Docker Commands for Common Users
+This project contain source code of TUI Based Python Application that simplifies Linux & Docker Commands for Common Users who don't have any knowledge of Linux & Docker Commands.
 
 --------------------------------------------------------------------------------------
 # Screens of Software
